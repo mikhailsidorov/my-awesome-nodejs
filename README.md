@@ -1,2 +1,2 @@
-# my-awesome-nodejs
+# My Awesome NodeJS
 NodeJS libs I liked
